@@ -1,0 +1,62 @@
+.sc {
+    background-image: url("smile.jpg");
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.ma {
+   background-image: url("fourth.png");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.ab
+{
+  text-align: center;
+    font-size: large;
+    color: blue;
+}
+#nam
+{
+
+  color: #f8f8ff;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+#bar
+{
+    overflow: hidden;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 99;
+}
+#sp
+{
+    float: left;
+}
+#nav1
+{
+    margin-left: 70px;
+    white-space: 1020px;
+}
+nav.li
+{
+    padding-left:30px;
+  padding-right:30px;
+
+}
+#but1
+{
+   float: right;
+    margin: 70px;
+    padding: 20px;
+}
